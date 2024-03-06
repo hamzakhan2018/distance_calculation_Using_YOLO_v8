@@ -21,7 +21,7 @@ This Python script demonstrates how to calculate the distance of objects from a 
 * Run the script python visioneye_distance_calculation.py
 
 
-##Functionality
+## Functionality
 
 * Load YOLO Model: The script loads the YOLO object detection model from the Ultralytics library.
 * Open Video File: The input video file is opened using OpenCV's VideoCapture.
@@ -33,7 +33,7 @@ This Python script demonstrates how to calculate the distance of objects from a 
 * Display Results: The processed video with annotations is displayed in real-time using OpenCV's imshow.
 
 
-##Example
+## Example
 An example usage of the script is provided in the code. Replace the video_path variable with the path to your input video file, and adjust other parameters as necessary.
 
 ##Notes
